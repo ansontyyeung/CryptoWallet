@@ -14,4 +14,4 @@ Work Contributed by YEUNG Tung Yan:
 - Develop node for app (100%)
 - Develop an Android app on Android Studio (100%)
 
-Results of this application can be viewed in a pdf file.
+Results of this application can be viewed in a "EE4017MiniProjectPresentation.pdf".
